@@ -11,7 +11,7 @@ The difference is, you need to pay for recovery feature in flantic and this bot 
 
 #### Method 1: Direct Launch (Simpler but could still have issues)
 1. Press the green button that says **"<> Code"**
-2. Next you press where it says **"Download ZIP"
+2. Next you press where it says **"Download ZIP"**
 3. After downloading, extract the zip file.
 4. Run the file called start.exe.
 
