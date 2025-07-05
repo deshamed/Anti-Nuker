@@ -6,3 +6,5 @@ module.exports = {
     await interaction.followUp({ content: `${client.ws.ping}ms` });
   },
 };
+
+saw
