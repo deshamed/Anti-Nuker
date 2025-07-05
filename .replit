@@ -3,3 +3,5 @@ run = "cd src && node ."
 
 [nix]
 channel = "stable-22_05"
+
+sd
