@@ -6,7 +6,7 @@ const phin = require('phin').unpromisified;
 const db = require('./core/db');
 const chalk = require('chalk');
 module.exports = client;
-
+d
 
 /* Global Variables */
 client.commands = new Collection();
