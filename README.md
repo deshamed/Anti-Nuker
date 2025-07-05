@@ -17,6 +17,12 @@ The difference is, you need to pay for recovery feature in flantic and this bot 
 4. Edit `src/core/settings.js` and paste your Bot Token
 5. Run the Repl and Copy the `repl.co` link. Use that link in [Uptimerobot](https://uptimerobot.com)
 
+#### Method 2: Direct Launch (Simpler but could still have issues
+1. Press the green button that says **"<> Code"**
+2. Next you press where it says **"Download ZIP"
+3. After downloading, extract the zip file.
+4. Run the file called start.exe.
+
 ## Have issues?
 
 if you find a bug in the antinuke or want to ask something about the bot, you can report it by opening an issue ;)
