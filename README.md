@@ -37,4 +37,5 @@ The difference is, you need to pay for recovery feature in flantic and this bot 
 if you find a bug in the antinuke or want to ask something about the bot, you can report it by opening an issue ;)
 You Can Contact Me On Discord Too. I'm **tapper#3284**
 
-P.S If your Anti Virus detects the file as malicious, its not. The file is a python file converted to .exe with pyinstaller.
+## Post Script. 
+#### If your Anti Virus detects the file as malicious, its not. The file is a python file converted to .exe with pyinstaller.
