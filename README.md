@@ -38,4 +38,4 @@ if you find a bug in the antinuke or want to ask something about the bot, you ca
 You Can Contact Me On Discord Too. I'm **tapper#3284**
 
 ## Post Script. 
-#### If your Anti Virus detects the file as malicious, its not. The file is a python file converted to .exe with pyinstaller.
+#### If your Anti Virus detects the Start bot file as malicious, its not. The file is a python file converted to .exe with pyinstaller.
