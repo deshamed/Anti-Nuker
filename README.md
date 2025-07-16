@@ -11,18 +11,12 @@ The difference is, you need to pay for recovery feature in flantic and this bot 
 1. Press the green button that says **"<> Code"**
 2. Next you press where it says **"Download ZIP"**
 3. After downloading, extract the zip file.
-
-## Alternative way to Download
-1. Go to Releases.
-2. Press where it says "Anti-Nuker.zip" (It should automatically download).
-3. Save the file to wherever you want. (I recommend saving to Desktop for simplicity).
-4. Extract the Zip file
    
 ## Setup
 
 #### Method 1: Direct Launch (Simpler but could still have issues)
 1. After you have downloaded the file, open the Anti-Nuker Folder.
-2. Find the "Start bot.exe" file and run it.
+2. Find the "Debot.exe" file and run it.
 3. Input your Discord Bot token and you've finished.
 
 #### Method 2 : Replit
