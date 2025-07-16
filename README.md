@@ -1,4 +1,4 @@
-## Discord Antinuke
+## Discord DeBot
 Protect your discord servers against nukes.
 
 This tool protects your servers from 16 type of events and it has recovery feature like Flantic.
